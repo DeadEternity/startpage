@@ -15,6 +15,7 @@ html {
 
 .links {
 	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .list-text {
@@ -39,15 +40,15 @@ a:link {
 }
 
 a:visited {
-	color: #81A1C1;
+	color: #555555;
 }
 
 a:hover {
-	color: #81A1C1;
+	color: #555555;
 }
 
 a:active {
-	color: #81A1C1;
+	color: #555555;
 }
 
 .spaced-link {
